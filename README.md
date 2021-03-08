@@ -3,6 +3,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=plastic&logo=visual-studio)
 - 💻 I work using:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-FCA121?style=plastic&logo=gitee)
