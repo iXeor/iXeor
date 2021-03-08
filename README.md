@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=iXeor&mode=dark)
+![](https://github-readme-stats.vercel.app/api?username=iXeor&theme=dark)
