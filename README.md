@@ -1,13 +1,13 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-- 🚀 I use daily: 
+- 🚀 I often use: 
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=plastic&logo=visual-studio)
-- 💻 I work using:
+- 💻 I upload my idea:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-FCA121?style=plastic&logo=gitee)
-- ⚙️ I also use and work: 
+- ⚙️ I use and work: 
   ![C](https://img.shields.io/badge/-C-green?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
@@ -17,5 +17,9 @@
   ![Python](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python) 
   ![Julia](https://img.shields.io/badge/-julia-green?style=plastic&logo=julia)
 - ⚡️ Fun fact:
-  I love hitorie and PENGUIN RESEARCH.
-  I love VOCALOID.
+  I love hitorie and PENGUIN RESEARCH.</br>
+  I love VOCALOID.  </br>
+  <body>
+
+  <img src="./01.gif" align="center">
+  </body>
