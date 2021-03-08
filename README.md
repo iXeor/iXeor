@@ -21,5 +21,5 @@
   I love VOCALOID.  </br>
   <body>
 
-  <img src="http://pic.rmb.bdstatic.com/3e7cc3bb40fe75853628570614d32e57.gif" align="center">
+  <img src="http://i0.hdslb.com/bfs/article/c3e327a7d0a0a3f9f1a61b349465602906451d2f.gif" align="right">
   </body>
