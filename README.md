@@ -21,15 +21,18 @@
   ![Spring](https://img.shields.io/badge/-spring-lightgrey?style=plastic&logo=spring)
   ![JavaScript](https://img.shields.io/badge/-javascript-darkblue?style=plastic&logo=javascript)
 - 🎓 What I am learning:</br>
+  ![Unity](https://img.shields.io/badge/-Unity-black?style=plastic&logo=unity)
+  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=plastic&logo=unreal%20engine)
   ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) 
   ![Python](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python) 
-  ![Julia](https://img.shields.io/badge/-julia-green?style=plastic&logo=julia)
+  ![Julia](https://img.shields.io/badge/-julia-green?style=plastic&logo=julia)</br>
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-66CCFF?style=plastic&logo=.NET)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=plastic&logo=tensorflow)
 - ⚡️ Fun fact:<br>
   I love hitorie and PENGUIN RESEARCH.</br>
   I love VOCALOID.  </br>
   <body>
-
-  <img src="http://i0.hdslb.com/bfs/article/c3e327a7d0a0a3f9f1a61b349465602906451d2f.gif" align="center" autoloop>
+  <div>
+  <img src="http://i0.hdslb.com/bfs/article/e244fb651e7c09371c5d9c7dab94b3195f526b01.gif" align="center" autoloop>
+  </div>
   </body>
