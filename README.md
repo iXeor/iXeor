@@ -40,6 +40,9 @@
       :bar_chart: WakaTime Coding Stat
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 </b>
   <img src="http://i0.hdslb.com/bfs/article/e244fb651e7c09371c5d9c7dab94b3195f526b01.gif" align="right" autoloop>
