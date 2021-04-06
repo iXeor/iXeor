@@ -34,7 +34,7 @@
   I love VOCALOID.  </br>
 
   ---
-:bar_chart: Coding Stat
+- :bar_chart: Coding Stat
 
 <!--START_SECTION:waka-->
 ```text
