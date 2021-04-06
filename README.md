@@ -15,6 +15,7 @@
 - ⚙️ I use and work: </br>
   ![C](https://img.shields.io/badge/-C-green?style=plastic&logo=c)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![C#](https://img.shields.io/badge/-C#-00599C?style=plastic&logo=.NET)
   ![MySQL](https://img.shields.io/badge/-MySQL-whitesmoke?style=plastic&logo=MySQL)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![Haskell](https://img.shields.io/badge/-haskell-grey?style=plastic&logo=haskell)</br>
