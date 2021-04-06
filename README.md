@@ -41,10 +41,9 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
----
   <body>
   <div>
-  <img src="http://i0.hdslb.com/bfs/article/e244fb651e7c09371c5d9c7dab94b3195f526b01.gif" align="left" autoloop>
+  <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F6f2494cebb0db4641d8ed5fe37b9ac2805d8502dd153d-4dZ33t_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1620312314&t=5db515d4ba2b1e1f560d1abe69ffbe26" align="center" autoloop>
   </div>
 </div>
   </body>
