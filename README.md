@@ -32,6 +32,8 @@
 - ⚡️ Fun fact:<br>
   I love hitorie and PENGUIN RESEARCH.</br>
   I love VOCALOID.  </br>
+
+  ---
   <body>
   <div>
         <b align="left">
