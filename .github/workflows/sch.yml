@@ -26,11 +26,11 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-    name: WakaTime Coding Stat
+  name: WakaTime Coding Stat
 
-     on:
-      push:
-      branches:
+   on:
+    push:
+      branches:    
         - master
       schedule:
         - cron: '0 19 * * *'
@@ -41,5 +41,5 @@ jobs:
       steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_TIME }}
           
