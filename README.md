@@ -1,4 +1,4 @@
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=tokyonight&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 - 🚀 I often use: </br>
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
