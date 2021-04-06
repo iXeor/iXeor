@@ -34,19 +34,17 @@
   I love VOCALOID.  </br>
 
   ---
-  <body>
-  <div>
-        <b align="left">
-      :bar_chart: WakaTime Coding Stat
+:bar_chart: Coding Stat
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-</b>
-</div>
-<div>
-  <img src="http://i0.hdslb.com/bfs/article/e244fb651e7c09371c5d9c7dab94b3195f526b01.gif" align="right" autoloop>
+---
+  <body>
+  <div>
+  <img src="http://i0.hdslb.com/bfs/article/e244fb651e7c09371c5d9c7dab94b3195f526b01.gif" align="left" autoloop>
   </div>
+</div>
   </body>
