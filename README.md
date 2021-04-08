@@ -43,5 +43,19 @@ Bash    3 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </body>
   
 - ⚡️ Fun fact:<br>
-  I love hitorie and PENGUIN RESEARCH.</br>
-  I love VOCALOID.  </br>
+ -   :guitar: Bands: 
+     - hitorie
+     - PENGUIN RESEARCH
+     - ずっと真夜中でいいのに。
+     - Scarlet Horizon</br>
+ - 📺 Anime:
+     - Zombie Land Saga
+     - 中二病でも恋がしたい！
+     - Black Rock Shooter
+     - ゆるキャン△</br>
+ - 🎵 VOCALOID Singer
+     - Hatsune Miku
+     - Yuzuki Yukari
+     - Megurine Ruka
+     - IA
+     - GUMI
