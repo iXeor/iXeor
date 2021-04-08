@@ -5,10 +5,6 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=plastic&logo=visual-studio)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-white?style=plastic&logo=Android%20Studio)
-  ![Eclipse](https://img.shields.io/badge/-eclipse-grey?style=plastic&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-pink?style=plastic&logo=IntelliJ%20IDEA)
-  ![Rider](https://img.shields.io/badge/-Rider-red?style=plastic&logo=Rider)
-  ![WebStorm](https://img.shields.io/badge/-WebStorm-skyblue?style=plastic&logo=WebStorm)
 - 💻 I upload my idea:</br>
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-FCA121?style=plastic&logo=gitee)
@@ -19,23 +15,14 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-whitesmoke?style=plastic&logo=MySQL)
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![Haskell](https://img.shields.io/badge/-haskell-grey?style=plastic&logo=haskell)</br>
-  ![Spring](https://img.shields.io/badge/-spring-lightgrey?style=plastic&logo=spring)
-  ![JavaScript](https://img.shields.io/badge/-javascript-darkblue?style=plastic&logo=javascript)
 - 🎓 What I am learning:</br>
   ![Unity](https://img.shields.io/badge/-Unity-black?style=plastic&logo=unity)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=plastic&logo=unreal%20engine)
   ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) 
   ![Python](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python) 
-  ![Julia](https://img.shields.io/badge/-julia-green?style=plastic&logo=julia)</br>
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-66CCFF?style=plastic&logo=.NET)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=plastic&logo=tensorflow)
-- ⚡️ Fun fact:<br>
-  I love hitorie and PENGUIN RESEARCH.</br>
-  I love VOCALOID.  </br>
-
-  ---
-- :bar_chart: Weekly Coding Stat
-
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=plastic&logo=tensorflow)</br>
+   :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
 Week: 31 March, 2021 - 07 April, 2021
@@ -47,9 +34,12 @@ Java    4 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Bash    3 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.58 % 
 ```
 <!--END_SECTION:waka-->
+---
+- ⚡️ Fun fact:<br>
+  I love hitorie and PENGUIN RESEARCH.</br>
+  I love VOCALOID.  </br>
   <body>
-  <div>
+  <div align = 'right'>
   <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201803%2F05%2F20180305073245_Wzy4K.gif&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1620312571&t=33275445f8b7b3e5c6575f0dfe7f7d2e" align="right" autoloop>
   </div>
-</div>
   </body>
