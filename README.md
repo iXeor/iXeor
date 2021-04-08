@@ -35,11 +35,11 @@ Bash    3 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 ---
-- ⚡️ Fun fact:<br>
-  I love hitorie and PENGUIN RESEARCH.</br>
-  I love VOCALOID.  </br>
   <body>
   <div align = 'right'>
   <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201803%2F05%2F20180305073245_Wzy4K.gif&refer=http%3A%2F%2Fb-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1620312571&t=33275445f8b7b3e5c6575f0dfe7f7d2e" align="right" autoloop>
   </div>
   </body>
+- ⚡️ Fun fact:<br>
+  I love hitorie and PENGUIN RESEARCH.</br>
+  I love VOCALOID.  </br>
