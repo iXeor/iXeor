@@ -1,4 +1,4 @@
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=tokyonight&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=tokyonight&show_icons=true">](https://metrics.lecoq.io/iXeor?template=classic)
 - 🚀 I often use: </br>
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
@@ -16,10 +16,8 @@
   ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
   ![Haskell](https://img.shields.io/badge/-haskell-grey?style=plastic&logo=haskell)</br>
 - 🎓 What I am learning:</br>
-  ![Unity](https://img.shields.io/badge/-Unity-black?style=plastic&logo=unity)
   ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=plastic&logo=unreal%20engine)
   ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) 
-  ![Python](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python) 
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-66CCFF?style=plastic&logo=.NET)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=plastic&logo=tensorflow)</br>
 ---
