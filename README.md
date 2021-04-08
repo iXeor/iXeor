@@ -22,7 +22,8 @@
   ![Python](https://img.shields.io/badge/-python-yellow?style=plastic&logo=python) 
   ![ASP.NET](https://img.shields.io/badge/-ASP.NET-66CCFF?style=plastic&logo=.NET)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=plastic&logo=tensorflow)</br>
-   :bar_chart: Weekly Coding Stat
+---
+ - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
 Week: 31 March, 2021 - 07 April, 2021
