@@ -24,9 +24,9 @@
  - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
-C++   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀   93.57 % 
+C++   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   94.32 % 
 ```
 <!--END_SECTION:waka-->
 ---
