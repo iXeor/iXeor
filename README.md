@@ -24,10 +24,10 @@
  - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
-JavaScript   40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.29 % 
-TypeScript   6 mins          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.02 % 
+JavaScript   50 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.76 % 
+TypeScript   6 mins          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.82 % 
 ```
 <!--END_SECTION:waka-->
 ---
