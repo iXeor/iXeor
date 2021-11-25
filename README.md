@@ -24,9 +24,9 @@
  - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-C++   1 hr 37 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.76 % 
+C++    1 hr 29 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.74 % 
 ```
 <!--END_SECTION:waka-->
 ---
