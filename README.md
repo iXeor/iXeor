@@ -1,4 +1,5 @@
-[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=react&show_icons=true">](https://github.com/iXeor/github-readme-stats)
+[<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=react&locale=cn&show_icons=true&title_color=ffffff&&bg_color=57,ff5577,ff737f,ff7f7f,fe8383,fc937f&hide_border=true">](https://github.com/iXeor/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iXeor&theme=react&&title_color=ffffff&locale=cn&layout=compact&bg_color=57,ff5577,ff737f,ff7f7f,fe8383,fc937f&hide_border=true)](https://github.com/iXeor/github-readme-stats)
 - 🚀 I often use: </br>
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
