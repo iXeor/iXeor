@@ -24,7 +24,9 @@
  - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 February, 2022 - 13 February, 2022
+
+
 ```
 <!--END_SECTION:waka-->
 ---
