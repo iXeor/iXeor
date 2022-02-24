@@ -24,11 +24,7 @@
  - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
-
-Total: 0 secs
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
