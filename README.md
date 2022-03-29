@@ -10,6 +10,7 @@
   ![GoLand](https://img.shields.io/badge/-GoLand-purple?style=for-the-badge&logo=GoLand)
   ![DataGrip](https://img.shields.io/badge/-DataGrip-brown?style=for-the-badge&logo=DataGrip)
   ![Rider](https://img.shields.io/badge/-Rider-red?style=for-the-badge&logo=Rider)
+  ![nano](https://img.shields.io/badge/-nano-whitesmoke?style=for-the-badge&logo=nano)
 - 💻 I upload my idea:</br>
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-red?style=for-the-badge&logo=gitee)
