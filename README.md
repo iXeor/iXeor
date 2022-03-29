@@ -8,8 +8,8 @@
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-pink?style=for-the-badge&logo=Intellij%20IDEA)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-brightgreen?style=for-the-badge&logo=PyCharm)
   ![GoLand](https://img.shields.io/badge/-GoLand-purple?style=for-the-badge&logo=GoLand)
-  ![Rider](https://img.shields.io/badge/-Rider-red?style=for-the-badge&logo=Rider)
   ![DataGrip](https://img.shields.io/badge/-DataGrip-brown?style=for-the-badge&logo=DataGrip)
+  ![Rider](https://img.shields.io/badge/-Rider-red?style=for-the-badge&logo=Rider)
 - 💻 I upload my idea:</br>
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-red?style=for-the-badge&logo=gitee)
