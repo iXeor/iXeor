@@ -1,25 +1,34 @@
 [<img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=iXeor&theme=react&locale=cn&show_icons=true&title_color=ffffff&&bg_color=57,ff5577,ff737f,ff7f7f,fe8383,fc937f&hide_border=true">](https://github.com/iXeor/github-readme-stats)
 - 🚀 I often use: </br>
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=plastic&logo=visual-studio)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-white?style=plastic&logo=Android%20Studio)
+  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+  ![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=for-the-badge&logo=Vim)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-darkgrey?style=for-the-badge&logo=Android%20Studio)
+  ![Clion](https://img.shields.io/badge/-Clion-blue?style=for-the-badge&logo=Clion)
+  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-pink?style=for-the-badge&logo=Intellij%20IDEA)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-brightgreen?style=for-the-badge&logo=PyCharm)
+  ![GoLand](https://img.shields.io/badge/-GoLand-purple?style=for-the-badge&logo=GoLand)
+  ![Rider](https://img.shields.io/badge/-Rider-red?style=for-the-badge&logo=Rider)
+  ![DataGrip](https://img.shields.io/badge/-DataGrip-brown?style=for-the-badge&logo=DataGrip)
 - 💻 I upload my idea:</br>
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Gitee](https://img.shields.io/badge/-Gitee-FCA121?style=plastic&logo=gitee)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+  ![Gitee](https://img.shields.io/badge/-Gitee-red?style=for-the-badge&logo=gitee)
 - ⚙️ I use and work: </br>
-  ![C](https://img.shields.io/badge/-C-green?style=plastic&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![C#](https://img.shields.io/badge/-C%23-00599C?style=plastic&logo=.NET)
-  ![MySQL](https://img.shields.io/badge/-MySQL-whitesmoke?style=plastic&logo=MySQL)
-  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
-  ![Haskell](https://img.shields.io/badge/-haskell-grey?style=plastic&logo=haskell)</br>
+- ![go](https://img.shields.io/badge/-golang-grey?style=for-the-badge&logo=go)
+  ![Shell](https://img.shields.io/badge/-Shell-green?style=for-the-badge&logo=Shell)
+  ![tcl](https://img.shields.io/badge/-tcl/tk-grey?style=for-the-badge&logo=tcl/tk)
+  ![Python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python)</br>
+  ![C](https://img.shields.io/badge/-C-lightblue?style=for-the-badge&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+  ![C#](https://img.shields.io/badge/-C%23-00599C?style=for-the-badge&logo=.NET)
+  ![MySQL](https://img.shields.io/badge/-MySQL-D4D4D4?style=for-the-badge&logo=MySQL)
 - 🎓 What I am learning:</br>
-  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=plastic&logo=unreal%20engine)
-  ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) 
-  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-66CCFF?style=plastic&logo=.NET)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=plastic&logo=tensorflow)</br>
+  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=for-the-badge&logo=unreal%20engine)
+  ![Unity](https://img.shields.io/badge/-Unity-yellow?style=for-the-badge&logo=unity)
+  ![Cocos](https://img.shields.io/badge/-Cocos2d-grey?style=for-the-badge&logo=cocos)</br>
+  ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=for-the-badge&logo=kotlin) 
+  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-66CCFF?style=for-the-badge&logo=.NET)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-darkgrey?style=for-the-badge&logo=tensorflow)</br>
 ---
  - :bar_chart: Weekly Coding Stat
 <!--START_SECTION:waka-->
