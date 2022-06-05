@@ -35,9 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 04 June 2022
+From: 29 May 2022 - To: 05 June 2022
 
-CSS   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+Markdown   1 hr 14 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+CSS        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
 ```
 
 <!--END_SECTION:waka-->
